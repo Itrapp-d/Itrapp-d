@@ -25,10 +25,6 @@
   <p align="center">   
 <img src="https://komarev.com/ghpvc/?username=shurilong&color=4c758f&style=for-the-badge&label=SHARDS">  <img src="https://files.catbox.moe/vg2ldc.gif" width="70">
  </p>
- <p align="left">
-<img src= "https://files.catbox.moe/ev0ewo.png" height= 220">
- </p>
-
  <details>
 <summary>$\color{#6895a4}{{✦}}$</summary>
     NOMINATIONS: (Thank you!)
