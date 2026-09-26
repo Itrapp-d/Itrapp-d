@@ -1,28 +1,58 @@
 
-<img align="left" src="https://camo.githubusercontent.com/c838329fcc75660c1cc8c78d3724a1a7dea24ca3d402d701b7f78a58cb510308/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f64623435313030313230316365663033346537636538353137333538383235352f363365643365616361613165376135352d63352f73343030783630302f356234383037636438353266646134306233313535316530323266373362303963393930653136662e706e6a" width= "430">
-<img src="https://camo.githubusercontent.com/894136ac3160938108c8cb967be1ab5dc82ea25d5339106e3be2aa1877646026/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65303933316537336632396336636134313662616632653039656537393938392f363365643365616361613165376135352d65662f733132383078313932302f333862303333663566313235636534316532336462396364313461653034316264346533383132302e67696676"height="150">
-<table>
-  <tr>
-    <td>$\color{#e654bc}{{"I⠀ get⠀ messages⠀ from⠀ the⠀ stars!"}}$
-  </tr>
-</table>
-<img align="left" src="https://camo.githubusercontent.com/bafccc4a42e4a97848f8a83476276d3de63afa7bee87211971d061c92d570e61/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f38363266336332336234323830333463633733373534386635616432333166332f363365643365616361613165376135352d33322f73343030783630302f343637333434363466353032333330363566633331356361623361613432613834383534373365352e706e6a"height="100"><br> <a href="https://shakespeare.atabook.org/"><img align="center" src="https://camo.githubusercontent.com/e43a7a50125c24a50667221cab8e74a89534c5c6876c3b39a9309ecdda7b39a3/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f66646631346264666366313262613337613030663139336535653232316664652f363365643365616361613165376135352d34332f73313030783230302f366231376439653061646161376334616634316130613333333039623563666437643164633038362e67696676" width="100"></a> ㅤ♡
-<br><br><img src="https://komarev.com/ghpvc/?username=shurilong&color=ab3eae&style=flat-square&label=Delivered+Messages">
-<img align="left" src="https://64.media.tumblr.com/005b12706e15344688c12ca7235f2a57/63ed3eacaa1e7a55-55/s540x810/dc680f3a29fd5958788012da78a05053a5fa8484.pnj" width= "311">
-<br>
-<br><br>
-<table>
-  <tr>
- <td><a href="https://pronouns.cc/@shurilong">prns.cc</a>⠀♡⠀<a href="https://en.pronouns.page/@shurilong">prns.pg</a>⠀♡⠀<a href="https://guns.lol/orison">guns.lol</a>⠀♡⠀<a href="https://fluffle.cc/avoidable">fluffle</a>
-</table>
- </tr>
-
-<p align="left">
-  <a href="https://github.com/ElijahNiccky">
-  <img src="https://camo.githubusercontent.com/aa9cd8c28777efeacda7c55520930b9510361f1e950f30e6ff835e4dff2d0aba/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f36336261626136313366343438643661346539333966623964353336613562652f363365643365616361613165376135352d33332f73323530783430302f366431383937663934346634366364343935613430323339666265643265643937343635316130622e706e6a" width="70">
+<p align="center">
+<img src= "https://camo.githubusercontent.com/10dcb4f584043659bbab5918430d5657b623b7a417d70ecc53f4d83ce249a97d/68747470733a2f2f66696c65732e636174626f782e6d6f652f687478647a622e706e67" width= 610">
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&pause=1000&color=85AAB6&center=true&vCenter=true&width=435&lines=Don't+cry%2C+my+special+one;Oh%2C+so+hateful%2C+those+popular+saints.;Don't+give+up%2C+my+special+one;Oh%2C+so+brave%2C+that+untamed+spirit.." alt="Typing SVG" /></a>
+</p>
+   
+<p align="center">
+  <a href="https://shakespeare.atabook.org/">
+    <img src="https://camo.githubusercontent.com/aec3ec9f94f018a45666dbf93fe1fa04e83843f65aa55a50b1e8c21cb9e350ab/68747470733a2f2f66696c65732e636174626f782e6d6f652f70357132676c2e706e67" width="169">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/kitsunekozz">
-    <img src="https://camo.githubusercontent.com/9326fa8f4f774d6480266e13c330153bc54199c485d9677f98ab46b098df3db7/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f36376136303533336163323265343431353066303866353564333434353435362f363365643365616361613165376135352d61372f73323530783430302f366236396637333065663566386632623631623033643531656234613931313263326339366231342e706e6a" width="80"></a> <img align="center" src="https://camo.githubusercontent.com/02ff66021c40f8f8e9fd9f0d1cf5f5f92e100beb23e8a0c8985da01b554af8d8/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f61643035383534373530393064393264346261373565656461643862383931372f363365643365616361613165376135352d62642f73323530783430302f643132336536336165623165303835373030663764343538333061333065316634346465663838312e67696676"width="140"> 
+   <a href="https://fluffle.cc/avoidable">
+    <img src="https://camo.githubusercontent.com/5243e005f5dfe12defe5280ba02658edc97ae803cc7769786188dbcf6ab56413/68747470733a2f2f66696c65732e636174626f782e6d6f652f6568736b31702e706e67" width="140">
+  </a>
 </p>
+
+<p align="center">
+<img src= "https://files.catbox.moe/860mos.gif" height= 30">
+</p>
+<p align="center">
+  <td>$\color{#85AAB6FF}{{Donne,⠀ Agender⠀ Apagender⠀ He/She/They}}$
+</p>
+  <p align="center">   
+<img src="https://komarev.com/ghpvc/?username=shurilong&color=4c758f&style=for-the-badge&label=SHARDS">  <img src="https://files.catbox.moe/vg2ldc.gif" width="70">
+ </p>
+ <p align="left">
+<img src= "https://files.catbox.moe/ev0ewo.png" height= 220">
+ </p>
+
+ <details>
+<summary>$\color{#6895a4}{{✦}}$</summary>
+    NOMINATIONS: (Thank you!)
+<a href="https://github.com/title-town">title-town</a> <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> <a href="https://github.com/pt-players">pt-players</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-mediac</a>  <a href="https://github.com/music-town">music-town</a> <a href="https://github.com/pt-fashion">pt-fashion</a>
+ </details> 
+
+  <details>
+<summary>$\color{#6895a4}{{✦}}$</summary>
+   My evil alt accounts:
+   <a href="https://github.com/CRYSTAL-CRIMINAL">CRYSTAL-CRIMINAL</a> <a href="https://github.com/VIVA-LAS-VENGEANCE">VIVA-LAS-VENGEANCE</a> <a href="https://github.com/IWSNT">IWSNT</a>   
+ </details>
+
+  
+   <details>
+<summary>$\color{#6895a4}{{✦}}$</summary>
+   Some info I thhink is necessary <br>
+   DO NOT BACKSHOT ME AT ALL OR YOU WILL BE BLOCKED <br>
+   (Seriously, that shit is so weird and its just grown old by now.) <br>
+   No DNI, I block freely <br>
+   All of my skins have my github(s) linked. Idc about inspo or color picking just don't directly copy me. <br>
+   Im selective with who I friend so I won't always say yes to friend requests <br>
+   I switch my whispers on and off alot of the time, so sorry if you can't whisper me sometimes. <br>
+   Coilshot & Ichance iwc EMPHASIS on !chance. Sorry. You can still int just don't force the ships on me <br>
+    I don't like joining parties alot sorry im a negative nancy <br>
+   c*h if it's in my name or ask me in whispers
+ </details>
 
