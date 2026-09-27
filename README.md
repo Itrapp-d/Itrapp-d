@@ -47,6 +47,7 @@
    All of my skins have my github(s) linked. Idc about inspo or color picking just don't directly copy me. <br>
    Im selective with who I friend so I won't always say yes to friend requests <br>
    I switch my whispers on and off alot of the time, so sorry if you can't whisper me sometimes. <br>
+  I am a fictionkin of Itrapped (forsaken) so if you're a fictionkin of Chance, I'd suggest you keep a distance, but I don't mind casual interaction as long as you don't either. <br>
    Coilshot & Ichance iwc EMPHASIS on !chance. Sorry. You can still int just don't force the ships on me <br>
     I don't like joining parties alot sorry im a negative nancy <br>
    c*h if it's in my name or ask me in whispers
