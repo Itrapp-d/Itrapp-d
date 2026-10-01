@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src= "https://camo.githubusercontent.com/10dcb4f584043659bbab5918430d5657b623b7a417d70ecc53f4d83ce249a97d/68747470733a2f2f66696c65732e636174626f782e6d6f652f687478647a622e706e67" width= 610">
+<img src= "https://camo.githubusercontent.com/0f6c61aefaa090cdef994d4d8022329f7212c3582a054fb837b8f111bc774fff/68747470733a2f2f66696c65732e636174626f782e6d6f652f6e6d6b6c63712e706e67" width= 610">
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&pause=1000&color=85AAB6&center=true&vCenter=true&width=435&lines=Don't+cry%2C+my+special+one;Oh%2C+so+hateful%2C+those+popular+saints.;Don't+give+up%2C+my+special+one;Oh%2C+so+brave%2C+that+untamed+spirit.." alt="Typing SVG" /></a>
