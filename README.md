@@ -28,7 +28,7 @@
  <details>
 <summary>$\color{#6895a4}{{✦}}$</summary>
     NOMINATIONS: (Thank you!)
-<a href="https://github.com/title-town">title-town</a> <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> <a href="https://github.com/pt-players">pt-players</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-mediac</a>  <a href="https://github.com/music-town">music-town</a> <a href="https://github.com/pt-fashion">pt-fashion</a>
+<a href="https://github.com/title-town">title-town</a> <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> <a href="https://github.com/pt-players">pt-players</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> <a href="https://github.com/music-town">music-town</a> <a href="https://github.com/pt-fashion">pt-fashion</a>
  </details> 
 
   <details>
