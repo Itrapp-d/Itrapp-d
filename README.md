@@ -11,7 +11,7 @@
     <img src="https://camo.githubusercontent.com/aec3ec9f94f018a45666dbf93fe1fa04e83843f65aa55a50b1e8c21cb9e350ab/68747470733a2f2f66696c65732e636174626f782e6d6f652f70357132676c2e706e67" width="169">
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://fluffle.cc/avoidable">
+   <a href="https://fluffle.cc/i.trapped">
     <img src="https://camo.githubusercontent.com/5243e005f5dfe12defe5280ba02658edc97ae803cc7769786188dbcf6ab56413/68747470733a2f2f66696c65732e636174626f782e6d6f652f6568736b31702e706e67" width="140">
   </a>
 </p>
