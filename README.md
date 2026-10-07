@@ -34,7 +34,7 @@
   <details>
 <summary>$\color{#6895a4}{{✦}}$</summary>
    My evil alt accounts:
-   <a href="https://github.com/BERNA-DETTE">BERNA-DETTE</a> <a href="https://github.com/VIVA-LAS-VENGEANCE">VIVA-LAS-VENGEANCE</a> <a href="https://github.com/IWSNT">IWSNT</a>   
+   <a href="https://github.com/enneahumans">enneahumans</a> <a href="https://github.com/VIVA-LAS-VENGEANCE">VIVA-LAS-VENGEANCE</a> <a href="https://github.com/IWSNT">IWSNT</a>   
  </details>
 
   
